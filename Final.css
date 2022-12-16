@@ -1,0 +1,74 @@
+body {
+	font-family: 'Georgia', sans-serif;
+	font-size: 20px;
+	background-color: #F3F3F3;
+	margin-top:  0px;
+	margin-left:  0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	max-width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	border-left: 1px solid #16324F;
+	border-right: 1px solid #16324F;
+	border-top: 1px solid #16324F;
+	border-bottom: 1px solid #16324F;
+}
+
+.story-header {
+	border-top:  50px #16324F solid;
+	border-top-width:  50px;
+	background-color: white;
+	padding-left: 8px;
+	padding-right: 8px;
+	border-bottom: #16324F solid;
+	border-bottom-width: 15px;
+}
+
+.story-header h1{
+	margin-bottom: 5px;
+}
+
+.deck {
+	font-size: 20px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.story-header p{
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.byline{
+	margin-top: 5px;
+	padding-bottom: 15px;
+}
+
+.story-text {
+	background-color: white;
+	padding-left: 8px;
+	padding-right: 8px;
+	padding-top:  3px;
+	padding-bottom: 5px;
+	border-bottom: #16324F solid;
+	border-bottom-width: 15px;
+	line-height: 1.5;
+}
+
+.graphic {
+	max-width: 100%;
+}
+
+a{	
+	color: #52758E;
+}
+
+a:hover {
+	font-size: 23px;
+	color: #1B4460;
+} 
